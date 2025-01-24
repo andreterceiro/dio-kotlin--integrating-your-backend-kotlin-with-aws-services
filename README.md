@@ -7,3 +7,5 @@ In all of the course teacher created resources, send messages to queues on AWS u
 Learn exactly how do do this do not import to me because... is Spring Framework... ok, Spring Framework is very important, but I only have to apply its principles...
 
 I commented this class in [this video](https://youtu.be/lgE3WQO7-7I).
+
+I studies [this AWS tutorial](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html#getting-started-install-instructions)
