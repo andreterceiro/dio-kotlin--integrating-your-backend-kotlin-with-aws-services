@@ -9,3 +9,5 @@ Learn exactly how do do this do not import to me because... is Spring Framework.
 I commented this class in [this video](https://youtu.be/lgE3WQO7-7I).
 
 I studies [this AWS tutorial](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html#getting-started-install-instructions)
+
+I executed the instructions of this tutorial [in this repository](https://github.com/andreterceiro/integrating-with-aws). I clonned this repository in the same level of this working copy.
